@@ -22,15 +22,15 @@ The final output of this project consists of a database of music albums and thei
 These are the sources: 
 + **Rolling Stone's 500 Greatest Albums of All Time**
 Available on Kaggle: https://www.kaggle.com/datasets/joebeachcapital/rolling-stones-500-greatest-albums-of-all-time
-Extraction via CSV file
+(Extraction via CSV file)
 
 + **50 Genuinely Horrible Albums by Brilliant Artists**
 Available on Web: https://www.rollingstone.com/music/music-lists/horrible-albums-by-brilliant-artists-1234672895/
-Extraccion via Web Scrapping, Selenium 
+(Extraccion via Web Scrapping, Selenium) 
 
 + **Spotify API**
 Documentation on : https://developer.spotify.com/
-Extraccion via API 
+(Extraccion via API) 
 
 
 ## Deliverables  
