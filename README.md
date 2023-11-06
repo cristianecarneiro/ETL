@@ -2,7 +2,7 @@
 
 ETL project during Ironhack's Data Analytics BootCamp  
 
-![albums](https://github.com/cristianecarneiro/ETL/tree/main/img/albums.jpg)
+![albums](https://raw.githubusercontent.com/cristianecarneiro/ETL/main/img/albums.jpg)
 
 
 ## Objectives
